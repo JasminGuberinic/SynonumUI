@@ -1,4 +1,4 @@
 # SynonymUI
-UI for synonim app. App adds and return synonyms for given word.
+UI for synonym app. App adds and returns synonyms for given word.
 
-Backend repo: https://dev.azure.com/jasminguberinic/_git/SynonymsSearch
+Back-end repo: https://dev.azure.com/jasminguberinic/_git/SynonymsSearch
