@@ -1,17 +1,17 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/synonym-logo.png">
-    <HelloWorld msg="Welcom to synonym"/>
+    <Synonym msg="Welcom to synonym"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Synonym from './components/Synonym.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Synonym
   }
 }
 </script>
